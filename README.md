@@ -29,11 +29,6 @@ Cada desafio fica em sua própria pasta, organizada por data, contendo:
 - Documentar o processo de aprendizado
 - Criar um histórico visível de evolução ao longo do tempo
 
-## ▶️ Como rodar as soluções
-
-```bash
-node caminho/para/solucao.js
-```
 
 ## 🚀 Como usar
 
