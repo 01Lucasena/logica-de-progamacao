@@ -16,12 +16,6 @@ Cada desafio fica em sua própria pasta, organizada por data, contendo:
 - **`solucao.js`** — minha solução em JavaScript
 - Testes ou exemplos de entrada/saída, quando aplicável
 
-```
-/2026-08-08-fizzbuzz-modificado
-  ├── README.md
-  └── solucao.js
-```
-
 ## 🎯 Objetivos
 
 - Praticar lógica de programação diariamente
@@ -32,4 +26,4 @@ Cada desafio fica em sua própria pasta, organizada por data, contendo:
 
 ## 🚀 Como usar
 
-Sinta-se à vontade para clonar o repositório, tentar resolver os desafios por conta própria antes de olhar as soluções, e abrir issues ou PRs com sugestões de novos desafios ou soluções alternativas.
+Sinta-se à vontade para clonar o repositório, tentar resolver os desafios por conta própria antes de olhar as soluções, e abrir issues ou PRs com sugestões de novos desafios ou soluções alternativas. 
